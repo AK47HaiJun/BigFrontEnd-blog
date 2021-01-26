@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: ZhangXin
  * @Date: 2021-01-24 21:26:52
- * @LastEditTime: 2021-01-27 00:20:49
+ * @LastEditTime: 2021-01-27 00:34:23
  * @LastEditors: ZhangXin
 -->
 # 前端自学社区
@@ -19,10 +19,10 @@
 ## 联系我
 
 * 本人联系方式： <br/>
-<img src="https://s3.ax1x.com/2021/01/27/sv0SfS.jpg" style="width:200px;height:200px">
+<img src="img/wx.jpg" style="width:200px;height:200px">
 
 
 * 公众号<br/>
 > 目前有自己社区交流群，公众号回复 “加群” ，即可加入 前端自学交流群，欢迎关注交流，共同进步! 
 
-<img src="https://s3.ax1x.com/2021/01/27/sv0ClQ.jpg" style="width:200px;height:200px">
+<img src="img/gzh.jpg" style="width:200px;height:200px">
