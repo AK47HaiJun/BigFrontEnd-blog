@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: ZhangXin
  * @Date: 2021-01-24 21:31:41
- * @LastEditTime: 2021-01-24 22:29:06
+ * @LastEditTime: 2021-01-27 00:25:39
  * @LastEditors: ZhangXin
 -->
 ![logo](https://docsify.js.org/_media/icon.svg)
@@ -15,5 +15,5 @@
 * 技术: &nbsp;&nbsp; React &nbsp;&nbsp;  Vue &nbsp;&nbsp;  全家桶  &nbsp;&nbsp; Flutter &nbsp;&nbsp;  Go  &nbsp;&nbsp;设计模式 &nbsp;&nbsp;  算法与数据结构
 
 
-<!-- [GitHub](https://github.com/Hanxueqing/Douban-Movie.git) -->
+[GitHub](https://github.com/AK47HaiJun/BigFrontEnd-blog)
 [开始阅读](#quick-start)
